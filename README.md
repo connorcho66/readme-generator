@@ -16,9 +16,7 @@ Below is picture of generated README.md through the terminal.
 
 ## Tech Used
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" style= "width:100px;">
-<img src="https://www.brainfuel.io/images/node-js-new.png" alt="Node.js" style="width:100px;"/>
-<img src="./img/npm.png" alt="NPM" style="width:100px;"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" style= "width:100px;"><img src="https://www.brainfuel.io/images/node-js-new.png" alt="Node.js" style="width:100px;"/><img src="./img/npm.png" alt="NPM" style="width:100px;"/>
 
 ## Installation
 In order to utilize this application, user have to install node.js,
